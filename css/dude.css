@@ -1,0 +1,77 @@
+body{
+	margin: 0;
+	font-family: Century Gothic;
+	font-size: 20px;
+	line-height: 30px;
+	text-align: left;
+	background-color: #f5f1e4;
+}
+
+header{
+	background-color: #ba8e14;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1,h2{ font-family: 'Goblin One', cursive; }
+
+header h1{
+	color: #f5f1e4;
+	font-size: 60px;
+
+}
+
+header img{
+	border-radius: 300px;
+    width: 600px;
+    border: 15px solid #9c7605;
+}
+
+main{	
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+	padding-top: 50px;
+}
+
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 30px;
+	color: #9c7605;
+	margin:40px 0 10px;
+}
+
+a{
+	color: #9c7605	
+
+}
+a:hover{ color: #ba8e14 }
+
+footer{
+	background-color: #ba8e14; 
+	font-size: 15px;
+  	margin: 0 auto;
+  	text-align: center;  	
+
+}
+
+footer p{ margin: 0 }
+
+footer a{
+	color: white;
+}
+footer a:hover{ color: #ffc700 }
+
+p.caption{
+	color: #bd9c2a;
+	font-style: italic;
+	margin-top: 0;
+	text-align: left;
+}
+
+
