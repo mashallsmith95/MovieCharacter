@@ -8,6 +8,10 @@ body{
 }
 
 header{
+
+	
+
+	
 	background-color: #ba8e14;
 	text-align: center;
 	padding-top: 50px;
@@ -76,8 +80,8 @@ p.caption{
 	text-align: left;
 }
 
-p.maude{
-	padding-bottom: 40px;
-}
 
+p.quote{ 
+	color: white 
+}
 
