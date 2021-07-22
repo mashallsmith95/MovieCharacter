@@ -14,8 +14,10 @@ header{
 	padding-bottom: 50px;
 }
 
-h1,h2{ font-family: 'Goblin One', cursive; }
+h1,h2{ font-family: 'Goblin One', cursive; 
+}
 
+/* header styles*/
 header h1{
 	color: #f5f1e4;
 	font-size: 60px;
@@ -72,6 +74,10 @@ p.caption{
 	font-style: italic;
 	margin-top: 0;
 	text-align: left;
+}
+
+p.maude{
+	padding-bottom: 40px;
 }
 
 
